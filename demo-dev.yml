@@ -11,4 +11,4 @@ server:
     mime-types: text/html,text/xml,text/plain,application/json,application/xml
     min-response-size: 1KB
 demo:
-  info: \u914d\u7f6e\u4fe1\u606f
+  info: 配置信息
