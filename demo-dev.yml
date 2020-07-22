@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: demo
+  security:
+    user:
+      name: nijunyang
+      password: 123456
+server:
+  compression:
+    enabled: false
+    mime-types: text/html,text/xml,text/plain,application/json,application/xml
+    min-response-size: 1KB
+demo:
+  info: yaml中文会乱码？
