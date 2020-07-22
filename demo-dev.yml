@@ -11,4 +11,4 @@ server:
     mime-types: text/html,text/xml,text/plain,application/json,application/xml
     min-response-size: 1KB
 demo:
-  info: 乱码
+  info: 是不是乱码
