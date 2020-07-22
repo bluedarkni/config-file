@@ -11,4 +11,4 @@ server:
     mime-types: text/html,text/xml,text/plain,application/json,application/xml
     min-response-size: 1KB
 demo:
-  info: yaml中文会乱码？刷新一下
+  info: yaml中文会乱码？刷新一下123
